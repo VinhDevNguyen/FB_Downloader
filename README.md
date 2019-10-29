@@ -3,7 +3,7 @@
 ## Overview
 
 Đây là repo của mình chứa code có thể download video trên Facebook
-
+Lưu ý: Chỉ có thể download public video
 ## Cách cài đặt (Using with Python)
 * Clone repo của mình về
 * Cài đặt python 3.x.x
