@@ -11,5 +11,5 @@ Lưu ý: Chỉ có thể download public video
 * Chạy file FB_Downloader.py
 
 ## Sử dụng mà không cần cài đặt python
-* Link: https://drive.google.com/open?id=1dNGx2-vvqJCmnrniWa3fS405z0E4jE7w
+* Link: https://drive.google.com/file/d/1wi436YmJTxSTtLZMHF7B-remA6RFp5C0/view?usp=sharing
 * Tải về xong giải nén ra, đọc file README.txt
